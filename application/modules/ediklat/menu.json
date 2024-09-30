@@ -1,0 +1,48 @@
+{
+    "code" : "MS",
+    "header" : "E-Diklat",
+    "menu" : [
+        {
+            "text" : "Kegiatan",
+            "icon" : "<i class='fa fa-bars'></i>",
+            "url" : "ediklat/kegiatan",
+            "access" : ["RACTIVITY"]
+        },
+        {
+            "text" : "Sertifikat",
+            "icon" : "<i class='fa fa-certificate'></i>",
+            "url" : "ediklat/sertifikat",
+            "access" : ["RCERTIFICATE"]
+        },
+        {
+            "text" : "Member",
+            "icon" : "<i class='fa fa-users'></i>",
+            "url" : "ediklat/member",
+            "access" : ["RMEMBER"]
+        },
+        {
+            "text" : "Laporan",
+            "icon" : "<i class='fa fa-note-sticky'></i>",
+            "url" : "ediklat/report",
+            "access" : ["RREPORT"]
+        },
+        {
+            "text" : "Broadcast",
+            "icon" : "<i class='fa fa-share'></i>",
+            "url" : "ediklat/broadcast",
+            "access" : ["RBROADCAST"]
+        },
+        {
+            "text" : "Pengaduan",
+            "icon" : "<i class='fa fa-info'></i>",
+            "url" : "ediklat/pengaduan",
+            "access" : ["RPENGADUAN"]
+        },
+        {
+            "text" : "LMS",
+            "icon" : "<i class='fa fa-school'></i>",
+            "url" : "ediklat/lms",
+            "access" : ["RCV","RESSAY"]
+        }
+    ]
+}

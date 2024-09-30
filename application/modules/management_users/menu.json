@@ -1,0 +1,19 @@
+{
+    "code" : "MU",
+    "header" : "Management User",
+    "menu" : [
+        {
+            "text" : "Users",
+            "icon" : "<i class='fa fa-users'></i>",
+            "url" : "management_users/users",
+            "access" : ["RU"]
+        },
+        {
+            "text" : "Roles",
+            "icon" : "<i class='fa fa-gears'></i>",
+            "url" : "management_users/roles",
+            "access" : ["RR"]
+        }
+    ]
+}
+

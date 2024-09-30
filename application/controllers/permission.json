@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Dashboard",
+    "permission" : [
+      {"permission": "RDASH", "description": "See dashboard"},
+      {"permission": "RACCOUNT", "description": "See account"}
+    ]
+  },
+  {
+    "module": "Management User",
+    "permission" : [
+      { "permission": "RU", "description": "See user " },
+      { "permission": "CU", "description": "Create user " },
+      { "permission": "UU", "description": "Update user " },
+      { "permission": "DU", "description": "Delete user " },
+      { "permission": "RR", "description": "See role " },
+      { "permission": "CR", "description": "Create role " },
+      { "permission": "UR", "description": "Update role " },
+      { "permission": "DR", "description": "Delete role " },
+      { "permission": "RRU", "description": "See role of user " },
+      { "permission": "CRU", "description": "Add role to user " },
+      { "permission": "DRU", "description": "Delete role from user " },
+      { "permission": "RUP", "description": "See special permission of user " },
+      { "permission": "CUP", "description": "Add special permission to user " },
+      { "permission": "DUP", "description": "Delete special permission from user " },
+      { "permission": "RRP", "description": "See permission of role " },
+      { "permission": "CRP", "description": "Add permission to role " },
+      { "permission": "DRP", "description": "Delete permission from role " }
+    ]
+  },
+  {
+    "module": "E-Diklat",
+    "permission" : [
+      { "permission": "RACTIVITY", "description": "Lihat aktivitas kegiatan " },
+      { "permission": "CACTIVITY", "description": "Tambah aktivitas kegiatan " },
+      { "permission": "UACTIVITY", "description": "Ubah aktivitas kegiatan " },
+      { "permission": "DACTIVITY", "description": "Hapus aktivitas kegiatan " },
+      { "permission": "RCERTIFICATE", "description": "Lihat sertifikat " },
+      { "permission": "CCERTIFICATE", "description": "Tambah sertifikat " },
+      { "permission": "UCERTIFICATE", "description": "Ubah sertifikat " },
+      { "permission": "DCERTIFICATE", "description": "Hapus sertifikat " },
+      { "permission": "RMEMBER", "description": "Lihat member " },
+      { "permission": "CMEMBER", "description": "Tambah member " },
+      { "permission": "UMEMBER", "description": "Ubah member " },
+      { "permission": "DMEMBER", "description": "Hapus member " },
+      { "permission": "RREPORT", "description": "Lihat laporan " },
+      { "permission": "RBROADCAST", "description": "Lihat broadcast " },
+      { "permission": "CBROADCAST", "description": "Tambah broadcast " },
+      { "permission": "UBROADCAST", "description": "Ubah broadcast " },
+      { "permission": "DBROADCAST", "description": "Hapus broadcast " },
+      { "permission": "RPENGADUAN", "description": "Lihat pengaduan " },
+      { "permission": "CPENGADUAN", "description": "Tambah pengaduan " },
+      { "permission": "UPENGADUAN", "description": "Ubah pengaduan " },
+      { "permission": "DPENGADUAN", "description": "Hapus pengaduan " },
+      { "permission": "RCV", "description": "Lihat cv " },
+      { "permission": "CCV", "description": "Tambah cv " },
+      { "permission": "UCV", "description": "Ubah cv " },
+      { "permission": "DCV", "description": "Hapus cv " },
+      { "permission": "RESSAY", "description": "Lihat essay " },
+      { "permission": "CESSAY", "description": "Tambah essay " },
+      { "permission": "UESSAY", "description": "Ubah essay " },
+      { "permission": "DESSAY", "description": "Hapus essay " }
+    ]
+  }
+]

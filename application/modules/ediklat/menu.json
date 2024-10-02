@@ -38,11 +38,11 @@
             "url" : "ediklat/pengaduan",
             "access" : ["RPENGADUAN"]
         },
-        // {
-        //     "text" : "LMS",
-        //     "icon" : "<i class='fa fa-school'></i>",
-        //     "url" : "ediklat/lms",
-        //     "access" : ["RCV","RESSAY"]
-        // }
+        {
+            "text" : "LMS",
+            "icon" : "<i class='fa fa-school'></i>",
+            "url" : "ediklat/lms",
+            "access" : ["RCV","RESSAY"]
+        }
     ]
 }

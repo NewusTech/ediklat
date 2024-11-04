@@ -37,12 +37,6 @@
             "icon" : "<i class='fa fa-info'></i>",
             "url" : "ediklat/pengaduan",
             "access" : ["RPENGADUAN"]
-        },
-        {
-            "text" : "LMS",
-            "icon" : "<i class='fa fa-school'></i>",
-            "url" : "ediklat/lms",
-            "access" : ["RCV","RESSAY"]
         }
     ]
 }

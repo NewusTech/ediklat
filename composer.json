@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-    	"php" : "7.4",
+    	"php" : "^7.4",
         "setasign/fpdf": "1.8.*",
         "setasign/fpdi": "^2.0",
         "phpoffice/phpspreadsheet": "^1.24"
